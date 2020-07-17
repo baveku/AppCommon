@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import FontAwesome_swift
+import FontAwesome
 
 extension UIColor {
 
